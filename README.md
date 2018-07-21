@@ -36,4 +36,4 @@ https://player.fm/series/ruby-book-club-podcast-165649,
 https://devchat.tv/ruby-rogues,  
 
   
-# Feel free to add a new resources.
+# Feel free to add new resources.
