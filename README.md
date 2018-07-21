@@ -63,5 +63,5 @@
 * <https://gorails.com>
 * <http://railscasts.com/>
 
-
-# Feel free to add a new resources.
+  
+# Feel free to add new resources.
