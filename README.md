@@ -1,4 +1,6 @@
 # Resources
+-----------
+"No code has fewer bugs than no code."
 ---------
 ## Ruby
 https://rubymonk.com/  
