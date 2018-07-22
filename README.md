@@ -1,5 +1,8 @@
 # Resources
-
+=======
+---------
+"No code has fewer bugs than no code."
+---------
 ## Ruby
 * <https://ruby-doc.org/>
 * <https://rubymonk.com/>
