@@ -66,5 +66,7 @@
 * <https://gorails.com>
 * <http://railscasts.com/>
 
+## Style Guides
+* <https://github.com/rubocop-hq/ruby-style-guide>
   
 # Feel free to add new resources.
