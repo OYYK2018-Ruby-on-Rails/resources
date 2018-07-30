@@ -68,5 +68,8 @@
 
 ## Style Guides
 * <https://github.com/rubocop-hq/ruby-style-guide>
-  
+
+## Rack
+* <http://railscasts.com/episodes/317-rack-app-from-scratch?view=asciicast>
+* <https://devcenter.heroku.com/articles/static-sites-ruby>
 # Feel free to add new resources.
