@@ -49,10 +49,6 @@
 * [Design Patterns in Ruby, Russ Olsen](https://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452)
 
 
-### Deployment
-*<https://devcenter.heroku.com/articles/getting-started-with-rails5>
-
-
 ### Rails Books
 
 * [Ruby on Rails Tutorial, Michael Hartl](https://www.railstutorial.org/)
@@ -79,5 +75,9 @@
 
 ## Style Guides
 * <https://github.com/rubocop-hq/ruby-style-guide>
+
+
+## Deployment
+*<https://devcenter.heroku.com/articles/getting-started-with-rails5>
 
 # Feel free to add new resources.
