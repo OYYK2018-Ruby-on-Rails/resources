@@ -66,6 +66,7 @@
 
 
 ## Media
+* [Denizli HackerSpace 'Ruby Programlama Diline Giriş'](https://www.youtube.com/watch?v=iRO3rHyrS2Q)
 * <http://5by5.tv/rubyonrails>
 * <https://player.fm/series/ruby-book-club-podcast-165649>
 * <https://devchat.tv/ruby-rogues>
